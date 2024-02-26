@@ -1,0 +1,15 @@
+.Business li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    font-size: 14px;
+}
+
+.Business h2 {
+    font-size: 1em;
+}
+
+.business-address {
+    font-size: 14px;
+}
